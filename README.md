@@ -5,7 +5,7 @@
 -----------------------------------------------------
 
 <p align="center">
-<img src="https://github.com/zeeone-ofc/Haruka-Md/blob/v1/media/Haruka.jpg" alt="ALPHA BOT" width="100"/>
+<img src="https://drive.google.com/file/d/1jau_pA2u7HIDVwX7S9aCnhUjiaCShPPB/view?usp=drivesdk" alt="ALPHA BOT" width="100"/>
 
 
 </p>
